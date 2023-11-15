@@ -1,5 +1,7 @@
 # thesis-complex-monogamy
 
+# Nodes Mathematics Philosophy
+
 https://docs.google.com/document/d/14orUkgjZg4CbzmuHLAwDH8Ll9PDXnn6LiC7uBHGrutc/edit
 
 Published on [Acedimia.com](https://www.academia.edu/)
